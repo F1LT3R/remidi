@@ -1,6 +1,7 @@
 {
   "name": "remidi",
   "version": "0.1.0",
+  "repository": {"url": "git@github.com:f1lt3r/"},
   "description": "Pipe MIDI messages from one app to another. (Example uses Reason Studio and Resolume Avenue).",
   "main": "index.js",
   "scripts": {

@@ -83,7 +83,7 @@ console.log('ReMidi is running!');
 
 This simple code allows you to send MIDI messages easily from one application to another.
 
-In my case, I can write an audio/visual composition in Reason. Reason triggers and changes the video clips and parameters in Avenue, making the music and the music video a single process.
+In my case, I can write an audio/visual composition in Reason. Reason triggers and changes the video clips and parameters in Avenue, making the music and the music video, a singular process.
 
 You can update the code if you want to provide more channels, and change the names.
 
