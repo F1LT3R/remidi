@@ -1,0 +1,27 @@
+{
+  "name": "remidi",
+  "version": "0.1.0",
+  "description": "Pipe MIDI messages from one app to another. (Example uses Reason Studio and Resolume Avenue).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "F1LT3R",
+  "license": "MIT",
+  "dependencies": {
+    "easymidi": "^1.0.3"
+	},
+	"keywords": [
+		"midi",
+		"virtual",
+		"pipe",
+		"bus",
+		"port",
+		"app",
+		"link",
+		"device",
+		"channel",
+		"note",
+		"cc"
+	]
+}
