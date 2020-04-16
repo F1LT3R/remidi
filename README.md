@@ -22,7 +22,7 @@ I wanted to connect [Reason Studio](https://www.reasonstudios.com/) to [Resolume
 
 ## Usage
 
-> Press <kbd>Control</kbd> + <kbd>C</kbd> twice, to quite the program.
+> Press <kbd>Control</kbd> + <kbd>C</kbd> twice, to quit the program.
 
 1. Start the MIDI server with Node.js.
 
